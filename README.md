@@ -1,1 +1,1 @@
-# Predicting_Sentiments_Covid19_Tracing_Apps
+# In this project, I aim to classify positive and negative sentiments based on the app ratings towards Covid-19 contact tracing apps. I review BoW and TF-IDF Featurization and tune the hyperparameters of a Random Forest and Logistic Regression before building the respective models. 
